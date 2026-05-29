@@ -29,22 +29,7 @@ Each folder represents a specific lab assignment containing schematic designs, s
 - Arithmetic Circuits
 
 ---
-# Lab Experiments
 
-```bash
-Digital-Logic-Design/
-│
-├── Proteus Files/
-│   ├── 2nd Lab/
-│   ├── 3rd Lab/
-│   ├── 4th Lab/
-│   ├── 5th Lab/
-│   ├── 6th Lab/
-│   ├── 7th Lab/
-│   └── 8th Lab/
-├── README.md
-├── .gitignore
-└── LICENSE
 ---
 
 # Tools Used
