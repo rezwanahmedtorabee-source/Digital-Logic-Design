@@ -45,28 +45,26 @@ Digital-Logic-Design/
 ├── README.md
 ├── .gitignore
 └── LICENSE
+---
 
 # Tools Used
 
 | Technology       | Purpose                          |
-|------------------|----------------------------------|
+| ---------------- | -------------------------------- |
 | Proteus          | Circuit Simulation & Design      |
-| ISIS             | Schematic Capture & Simulation   |
-| Digital Logic    | Core Subject Concepts            |
-| BAUST CSE Lab    | Academic Lab Work                |
+| ISIS             | Schematic Design                 |
+| Digital Logic    | Core Subject                     |
 
 ---
 # Learning Outcomes
 
 This repository helped me improve my understanding of:
 
-- Digital Logic Fundamentals
-- Combinational and Sequential Circuit Design
-- Logic Gate Implementation
-- Flip-Flops, Counters & Registers
-- Multiplexers, Demultiplexers, Encoders & Decoders
-- Simulation & Troubleshooting Techniques
-- Practical Application of Theoretical Knowledge
+* Digital Logic Fundamentals
+* Circuit Design & Simulation
+* Hardware Implementation Techniques
+* Troubleshooting & Debugging Circuits
+* Writing Clean and Organized Simulation Files
 
 ---
 # Author
