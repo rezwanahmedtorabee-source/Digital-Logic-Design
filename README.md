@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Proteus-000000?style=for-the-badge&logo=proteus&logoColor=white" />
   <img src="https://img.shields.io/badge/Digital%20Logic%20Design-00599C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BAUST%20CSE-FF0000?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -46,3 +45,36 @@ Digital-Logic-Design/
 ├── README.md
 ├── .gitignore
 └── LICENSE
+
+# Tools Used
+
+| Technology       | Purpose                          |
+|------------------|----------------------------------|
+| Proteus          | Circuit Simulation & Design      |
+| ISIS             | Schematic Capture & Simulation   |
+| Digital Logic    | Core Subject Concepts            |
+| BAUST CSE Lab    | Academic Lab Work                |
+
+---
+# Learning Outcomes
+
+This repository helped me improve my understanding of:
+
+- Digital Logic Fundamentals
+- Combinational and Sequential Circuit Design
+- Logic Gate Implementation
+- Flip-Flops, Counters & Registers
+- Multiplexers, Demultiplexers, Encoders & Decoders
+- Simulation & Troubleshooting Techniques
+- Practical Application of Theoretical Knowledge
+
+---
+# Author
+
+### Rezwan Ahmed
+B.Sc Engg in CSE Student | Aspiring Software & Hardware Developer
+
+---
+# Support
+
+If you found this repository useful, consider giving it a ⭐ on GitHub.
