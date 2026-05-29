@@ -29,7 +29,6 @@ Each folder represents a specific lab assignment containing schematic designs, s
 - Arithmetic Circuits
 
 ---
----
 # Lab Experiments
 
 ```bash
@@ -46,7 +45,7 @@ Digital-Logic-Design/
 ├── README.md
 ├── .gitignore
 └── LICENSE
----
+```
 
 ---
 # Tools Used
