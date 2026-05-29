@@ -25,7 +25,6 @@ Each folder represents a specific lab assignment containing schematic designs, s
 - Encoder & Decoder
 - Flip-Flops (D, JK, T, SR)
 - Counters & Registers
-- State Machines
 - Arithmetic Circuits
 
 ---
@@ -65,13 +64,12 @@ This repository helped me improve my understanding of:
 * Circuit Design & Simulation
 * Hardware Implementation Techniques
 * Troubleshooting & Debugging Circuits
-* Writing Clean and Organized Simulation Files
 
 ---
 # Author
 
 ### Rezwan Ahmed
-B.Sc Engg in CSE Student | Aspiring Software & Hardware Developer
+B.Sc Engg in CSE Student | Aspiring Software & Learner
 
 ---
 # Support
