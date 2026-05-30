@@ -1,7 +1,11 @@
 # Digital Logic Design
+
 <p align="center">
+  
   <img src="https://img.shields.io/badge/Proteus-000000?style=for-the-badge&logo=proteus&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/Digital%20Logic%20Design-00599C?style=for-the-badge" />
+  
 </p>
 
 <p align="center">
@@ -9,6 +13,7 @@
 </p>
 
 ---
+
 # About The Repository
 
 This repository contains all the **Proteus simulation files** of the Digital Logic Design Lab experiments I performed during my B.Sc. Engineering in CSE. 
@@ -16,6 +21,7 @@ This repository contains all the **Proteus simulation files** of the Digital Log
 Each folder represents a specific lab assignment containing schematic designs, simulations, and related files.
 
 ---
+
 # Topics Covered
 
 - Combinational Logic Circuits
@@ -28,25 +34,7 @@ Each folder represents a specific lab assignment containing schematic designs, s
 - Arithmetic Circuits
 
 ---
-# Lab Experiments
 
-```bash
-Digital-Logic-Design/
-│
-├── Proteus Files/
-│   ├── 2nd Lab/
-│   ├── 3rd Lab/
-│   ├── 4th Lab/
-│   ├── 5th Lab/
-│   ├── 6th Lab/
-│   ├── 7th Lab/
-│   └── 8th Lab/
-├── README.md
-├── .gitignore
-└── LICENSE
-```
-
----
 # Tools Used
 
 | Technology       | Purpose                          |
@@ -56,6 +44,7 @@ Digital-Logic-Design/
 | Digital Logic    | Core Subject                     |
 
 ---
+
 # Learning Outcomes
 
 This repository helped me improve my understanding of:
@@ -66,6 +55,7 @@ This repository helped me improve my understanding of:
 * Troubleshooting & Debugging Circuits
 
 ---
+
 # Author
 
 ### Rezwan Ahmed
